@@ -11,6 +11,7 @@ from scipy import ndimage
 from sklearn.linear_model import LogisticRegression
 from six.moves.urllib.request import urlretrieve
 from six.moves import cPickle as pickle
+#comment
 
 # Config the matplotlib backend as plotting inline in IPython
 url = 'https://commondatastorage.googleapis.com/books1000/'
